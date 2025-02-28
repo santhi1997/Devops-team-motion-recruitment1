@@ -16,7 +16,7 @@
    * sudo systemctl start jenkins
    * sudo systemctl status jenkins
 7) Run The Command to start and check the Virtual Machine(VM)
-8) Change inbount  Allow the  code 8080 for the accesing of jenkins
+8) Change inbound  Allow the  code 8080 for the accesing of jenkins
 9) Use your ip address with 8080 to open jenkins
 10) create your own jenkin profile using your details. 
 11) finally jenkins is setuped in your instance
